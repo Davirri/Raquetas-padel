@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Raqueta de Pádel X1",
+    "description": "Raqueta de pádel profesional con gran control.",
+    "price": 100,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVGlfX3xN5IyY2mb8pF0LSIMbPv232k17Z_w&s"
+  },
+  {
+    "id": 2,
+    "name": "Pelotas de Pádel",
+    "description": "Paquete de 3 pelotas de pádel en un envase sellado",
+    "price": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWYMf_uuR-OCuKNZ8Y6rPXynFC6TT9GkMmw&s"
+  },
+  {
+    "id": 3,
+    "name": "Paletero Padel Pro",
+    "description": "Paletero de alta capacidad con compartimentos especiales.",
+    "price": 70,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuup9I2J-KXXaSur1EacOtpj1ncNu-hq6YyQ&s"
+  },
+  {
+    "id": 4,
+    "name": "Zapatos de Pádel Speed",
+    "description": "Zapatos diseñados para máximo agarre y confort.",
+    "price": 85,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCkYIFS0acMjYc87o1HwsRIxIJE_5gjQ4TQ&s"
+  },
+  {
+    "id": 5,
+    "name": "Overgrip Ultra",
+    "description": "Overgrip para raquetas que proporciona un excelente agarre.",
+    "price": 10,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTEkof8WhmNv-htn_beRkBO_qxi1u_JHQmoAjpcseFAtbOMnFbov4Nmb1HeZ4bbLJ0rLeOaB8EdraOrS0Ef62ACaeJP1-HgQRjZWsxwDhVE0QhB2GK-7h2KPA&usqp=CAc"
+  },
+  {
+    "id": 6,
+    "name": "Mochila Padel Elite",
+    "description": "Mochila compacta y funcional para llevar tu equipo.",
+    "price": 40,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-k-_q01bMHvrLK9WIyGMFvQM89xSfSMRug&s"
+  },
+  {
+    "id": 7,
+    "name": "Protector de Raqueta",
+    "description": "Protector de raqueta para prolongar su vida útil.",
+    "price": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYsWfktYkP3sQl7BAlIhzbSkFfnnBCaQWAg&s"
+  },
+  {
+    "id": 8,
+    "name": "Muñequera Absorbente",
+    "description": "Muñequera de material absorbente para mayor comodidad.",
+    "price": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUqs-2sSB0Q27Ts3WHWqJuSGA5aBuxPNjPw&s"
+  }
+  
+]
